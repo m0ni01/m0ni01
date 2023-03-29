@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Hey there! 
 
-<!--
-**m0ni01/m0ni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+### 💻 Interests 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bug hunting 
+- Blockchain development 
+
+I enjoy exploring the latest technologies and finding ways to improve existing ones.
+
+### 🔧 Technical Skills 
+
+- 🐧 Linux 
+- 🌐 HTML, CSS, and JavaScript 
+- 🐍 Python 
+- 🖥️ C++ 
+- 📈 Solidity 
+- 🗃️ MySQL 
+
+🤝 I'm always looking to learn more and explore new opportunities, and I'm excited to contribute to open-source projects on GitHub. Please feel free to browse through my repositories and projects, and don't hesitate to reach out if you have any questions or ideas for collaboration. 
